@@ -10,11 +10,11 @@ Files generated during Netacad Emerging Technologies Workshop - Model Driven Pro
  - Получить навык создания различных программ для взаимодействия с API-интерфейсами Cisco DNA Center;
  - Написать простое приложение на Python с REST API-интерфейсами.
 
-## Intro - How to learn efficiently
+## Task0 - How to learn efficiently
 ###   
-[Files for Intro](/Intro/Readme.md)
+[Files for Task0](/Task0/Readme.md)
 [Youtube lecture](https://www.youtube.com/watch?v=ntZq3vqkaYM)
-[Submission](/Intro/How_to_learn_efficiently.txt)
+[Submission](/Task0/How_to_learn_efficiently.txt)
 
 ## Task1 - Installation of Python + libs, Putty/terminal, JSON Viewer, Postman, VirtualBox
    ###
