@@ -23,4 +23,3 @@ Files generated during Netacad Emerging Technologies Workshop - Model Driven Pro
 
 ## Task2 -  tba
 
-
