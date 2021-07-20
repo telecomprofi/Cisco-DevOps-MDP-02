@@ -13,3 +13,13 @@ for hostname in hostnames:
   else:
     print(colored(hostname, 'red'), colored(' is down!','red'))
 
+for hostname in hostnames:
+  ip_resolved = os.system("dig +short A" + hostname)
+  print("A record for " +hostname+" is ")
+
+import socket
+import dns.resolver
+
+# Basic query
+for rdata in dns.resolver.resolve('www.yahoo.com') :
+    print("www.yahoo.com has IP in A record: ",rdata)
